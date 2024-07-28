@@ -1,1 +1,2 @@
 aaj ka hisaab = 1800
+kal ka hisaab = 2400
